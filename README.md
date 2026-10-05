@@ -7,8 +7,7 @@ The project demonstrates how to translate business questions into SQL analysis a
 - **Dataset:** [Classic Models on Kaggle](https://www.kaggle.com/datasets/pushkar365/classic-models)
 - **Related project:** [Classic Models Sales Dashboard — Power BI](https://github.com/11-hadeel/Classic-Model-Dashboard-Power-Bi)
 
-> **Acknowledgment:** The business questions are based on exercises from a Udemy data analysis course. The SQL queries and Excel analysis in this repository are my own solutions.
-
+> **Acknowledgment:** The business questions are based on exercises from a Udemy data analysis course.
 ---
 
 ## Project Overview
