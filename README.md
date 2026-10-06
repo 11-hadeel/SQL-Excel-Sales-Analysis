@@ -143,6 +143,6 @@ The SQL and Excel analysis is complemented by an interactive Power BI dashboard:
 
 Information Systems Engineering | Data Analytics
 
-**Skills:** SQL · Excel · Power BI · Python · Data Analysis
+**Skills:** SQL · Excel · Power BI  · Data Analysis
 
 [LinkedIn](https://www.linkedin.com/in/hadeel-taqi-26baba267/) · [GitHub](https://github.com/11-hadeel)
