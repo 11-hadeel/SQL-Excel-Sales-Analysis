@@ -105,12 +105,16 @@ The analysis follows a simple workflow:
 ## Project Screenshots
 
 ### Sales Overview
+![Sales Overview](images/sales-overview.png)
 
-![Sales Overview](images/page1.png)
+### Sales Overview - Detailed View
+![Sales Overview - Detailed View](images/sales-overview-2.png)
 
-### Sales Analysis
+### Credit Limit vs. Sales
+![Credit Limit Analysis](images/credit-limit-analysis.png)
 
-![Sales Analysis](images/page2.png)
+### Office Sales by Customer Country
+![Office Sales Analysis](images/office-sales-analysis.png)
 
 ---
 
