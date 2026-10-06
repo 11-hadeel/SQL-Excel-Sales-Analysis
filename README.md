@@ -42,19 +42,9 @@ The analysis follows a simple workflow:
 
 ---
 
-## Key Findings
 
-The following section will be updated with the actual results from the analysis.
 
-1. **2004 Sales Overview:** Top-performing product line, country, city, total sales, and net profit.
-2. **Products Purchased Together:** Most frequently purchased product-line combination and number of orders.
-3. **Credit Limit vs. Sales:** Relationship between customer credit limits and sales value.
-4. **Change from Previous Order:** Average change in customer spending between consecutive orders.
-5. **Office Sales by Country:** Office serving the largest number of countries and highest-performing office.
-6. **Late Shipping:** Number of orders potentially affected by shipping delays.
-7. **Credit Limit Exceeded:** Number of customers whose balances exceeded their credit limits.
 
----
 
 ## Tools & Skills
 
