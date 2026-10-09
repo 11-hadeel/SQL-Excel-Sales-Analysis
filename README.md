@@ -108,7 +108,7 @@ The analysis follows a simple workflow:
 ![Sales Overview](images/sales-overview.png)
 
 ### Sales Overview - Detailed View
-![Sales Overview - Detailed View](images/sales-overview-2.png)
+![Sales Overview - Detailed View](images/sales-overview-2..png)
 
 ### Credit Limit vs. Sales
 ![Credit Limit Analysis](images/credit-limit-analysis.png)
